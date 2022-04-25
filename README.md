@@ -1,2 +1,2 @@
 # Gui-Calculator
-Create Gui Calculator using Phython
+Create Gui Calculator using Python
